@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wkesther
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, C# & WPF
 - 📫 How to reach me: zusergabriel@gmail.com
