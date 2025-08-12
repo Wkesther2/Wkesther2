@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Wkesther
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C++, C# & WPF
+- 👀 I’m interested in embedded systems
+- 🌱 I’m currently learning embedded systems
 - 📫 How to reach me: zusergabriel@gmail.com
